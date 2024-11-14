@@ -1,0 +1,13 @@
+* {
+    background-color:antiquewhite;
+}
+
+.box {
+    width: 30;
+    height:250;
+    padding:20px;
+    border:23px solid 000;
+    margin:20px;
+    background-color:rgb(166, 221, 203);
+}
+
